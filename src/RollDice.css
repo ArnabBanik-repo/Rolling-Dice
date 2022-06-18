@@ -1,0 +1,26 @@
+.RollDice{
+    margin: 2rem 0rem;
+    width: 22%;
+}
+
+.RollDice-diceArea{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2.4rem;
+}
+
+.RollDice-button{
+    width: 10rem;
+    height: 3rem;
+    font-size: 12px;
+    border: none;
+    color: #fff;
+    background: #333;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.RollDice-button:hover{
+    background: blueviolet;
+}
